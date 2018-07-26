@@ -111,7 +111,7 @@
                 "type": "string"
               },
               "ts": {
-                "type": "number"
+                "type": "string"
               }
             }
           }
